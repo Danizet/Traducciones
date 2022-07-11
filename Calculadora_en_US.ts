@@ -6,82 +6,96 @@
     <message>
         <location filename="principal.ui" line="14"/>
         <source>Principal</source>
-        <translation type="unfinished">Main</translation>
+        <translation>Main</translation>
     </message>
     <message>
         <location filename="principal.ui" line="21"/>
         <source>Numero 1:</source>
-        <translation type="unfinished">Number 1:</translation>
+        <translation>Number 1:</translation>
     </message>
     <message>
         <location filename="principal.ui" line="31"/>
         <source>Numero 2:</source>
-        <translation type="unfinished">Number 2:</translation>
+        <translation>Number 2:</translation>
     </message>
     <message>
         <location filename="principal.ui" line="41"/>
         <source>Operacion:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation>Operation:</translation>
     </message>
     <message>
         <location filename="principal.ui" line="49"/>
         <source>Sumar</source>
-        <translation type="unfinished">Addition</translation>
+        <translation>Addition</translation>
     </message>
     <message>
         <location filename="principal.ui" line="54"/>
         <source>Restar</source>
-        <translation type="unfinished">Subtract</translation>
+        <translation>Subtract</translation>
     </message>
     <message>
         <location filename="principal.ui" line="59"/>
         <source>Multiplicar</source>
-        <translation type="unfinished">Multiply</translation>
+        <translation>Multiply</translation>
     </message>
     <message>
         <location filename="principal.ui" line="64"/>
         <source>Dividir</source>
-        <translation type="unfinished"></translation>
+        <translation>Split</translation>
     </message>
     <message>
         <location filename="principal.ui" line="90"/>
         <source>Calcular</source>
-        <translation type="unfinished">Compute</translation>
+        <translation>Compute</translation>
     </message>
     <message>
         <location filename="principal.ui" line="107"/>
         <source>&amp;Archivo</source>
-        <translation type="unfinished">&amp;Archive</translation>
+        <translation>&amp;Archive</translation>
     </message>
     <message>
         <location filename="principal.ui" line="118"/>
         <source>&amp;Calcular</source>
-        <translation type="unfinished">&amp;Compute</translation>
+        <translation>&amp;Compute</translation>
     </message>
     <message>
         <location filename="principal.ui" line="121"/>
         <source>F1</source>
-        <translation type="unfinished">F1</translation>
+        <translation>F1</translation>
     </message>
     <message>
         <location filename="principal.ui" line="126"/>
         <source>&amp;Salir</source>
-        <translation type="unfinished">&amp;Close</translation>
+        <translation>&amp;Close</translation>
     </message>
     <message>
         <location filename="principal.ui" line="129"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished">Ctrl+Q</translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
-        <location filename="principal.cpp" line="57"/>
         <source>Calculo</source>
-        <translation type="unfinished">Calculation</translation>
+        <translation type="vanished">Calculation</translation>
     </message>
     <message>
-        <location filename="principal.cpp" line="58"/>
+        <location filename="principal.cpp" line="45"/>
+        <source>Error</source>
+        <translation>Error</translation>
+    </message>
+    <message>
+        <location filename="principal.cpp" line="46"/>
+        <source>No se puede dividir para 0</source>
+        <translation>Cannot divide for 0</translation>
+    </message>
+    <message>
+        <location filename="principal.cpp" line="54"/>
+        <source>Resultado</source>
+        <translation>Result</translation>
+    </message>
+    <message>
+        <location filename="principal.cpp" line="55"/>
         <source>El resultado es: %1</source>
-        <translation type="unfinished">The result is: %1</translation>
+        <translation>The result is: %1</translation>
     </message>
 </context>
 </TS>

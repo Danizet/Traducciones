@@ -3,6 +3,10 @@
 
 #include <QMainWindow>
 #include <QMessageBox>
+#include <QApplication>
+#include <QTranslator>
+#include <QInputDialog>
+
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class Principal; }
